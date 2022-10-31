@@ -10,9 +10,7 @@
 pip install -r /path/to/requirements.txt
 ```
 - Скачайте Chrome driver текущей версии вашего браузера и вставьте его директорию скрипта.
-```
-BITLINK_TOKEN=acess_token
-```
+
 - Запустите программу командой
 ```
 python3 main.py
